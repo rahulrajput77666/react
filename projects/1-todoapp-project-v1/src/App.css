@@ -1,0 +1,24 @@
+input{
+  width:100%;
+}
+.kg-button{
+  width:100px;
+}
+.App-name{
+  font-size: 40px;
+  font-style: oblique;
+  font-weight: 700;
+}
+.text-aligns{
+  text-align: left;
+  margin: 10px;
+}
+.text-class{
+  margin:20px;
+}
+.element-class{
+  margin:20px;
+}
+.App-name{
+  text-align: center;
+}
